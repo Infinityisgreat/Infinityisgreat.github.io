@@ -16,7 +16,7 @@ class App {
     this.express.set("client", client);
     this.express.locals = locals;
 
-    / * Middleware Functions */;
+    /* Middleware Functions */;
     this.express.use(cookieParser());
     this.express.use(express.static(__dirname + "/../public"));
     this.express.use(
