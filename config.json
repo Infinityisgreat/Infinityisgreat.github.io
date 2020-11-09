@@ -1,0 +1,36 @@
+{
+    "mongo_url": "mongodb+srv://user:sn6gmY8nssXfgk8A@cluster0.2npvr.mongodb.net/fedxbots?retryWrites=true&w=majority",
+    "server": {
+        "id": "761693162853892186",
+        "invite": "https://discord.gg/aZkCbJj5uK",
+        "mod_log_id": "771809397323202561",
+        "admin_user_ids": [666561053059973120],
+        "role_ids": {
+            "bot": "771619553192050688",
+            "unverified": "771999373486981141",
+            "verified": "771999476344291358",
+            "unmuted": "771999633878679572",
+
+            "bot_developer": "771620232497594368",
+            "bot_verifier": "771999922290556928"
+        }
+    },
+    "bot_options": {
+        "max_owners_count": 4
+    },
+    "discord_client": {
+        "id": "771603488810860556",
+        "secret": "APeqp67TDY3OfgRJRj81EGhYZyDMqsXC",
+        "token": "NzcxNjAzNDg4ODEwODYwNTU2.X5uhvw.N-Wj4M1Ql0BYWUesgfv9lPr5de8",
+        "prefix": "."
+    },
+    "web": {
+        "domain_with_protocol": "https://dsddssd.herokuapp.com/",
+        "port": 80,
+        "ratelimit": 30,
+        "recaptcha_v2": {
+            "site_key": "6Lc_rd0ZAAAAABy3Qt1vps9kHtxj0G2XBQwqyFMa",
+            "secret_key": "6Lc_rd0ZAAAAAPp6umz9RfCb-SQN5vWDjkV9y_oi"
+        }
+    }
+}
