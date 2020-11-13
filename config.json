@@ -1,5 +1,5 @@
 {
-    "mongo_url": "mongodb+srv://user:sn6gmY8nssXfgk8A@cluster0.2npvr.mongodb.net/fedxbots?retryWrites=true&w=majority",
+    "mongo_url": "mongodb+srv://user:XB7XYAZ6KKsGrETM@cluster0.3tmys.mongodb.net/fedxbotsiscool?retryWrites=true&w=majority",
     "server": {
         "id": "761693162853892186",
         "invite": "https://discord.gg/aZkCbJj5uK",
@@ -19,9 +19,9 @@
         "max_owners_count": 4
     },
     "discord_client": {
-        "id": "771603488810860556",
-        "secret": "APeqp67TDY3OfgRJRj81EGhYZyDMqsXC",
-        "token": "NzcxNjAzNDg4ODEwODYwNTU2.X5uhvw.N-Wj4M1Ql0BYWUesgfv9lPr5de8",
+        "id": "776346305776713759",
+        "token": "Nzc2MzQ2MzA1Nzc2NzEzNzU5.X6zi1w.5ugFwAOBzfOBtxRW9ptgyWX5SmA",
+        "secret": "oZBJrteMvFwryFAkH36ls_B06M0rHQI0",
         "prefix": "."
     },
     "web": {
