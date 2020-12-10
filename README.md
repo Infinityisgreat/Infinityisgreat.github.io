@@ -17,8 +17,8 @@ This is a discontinued discord bot list. I still maintain it occasionally, so fe
  - Discord bot for bot verification
  - Server count API
 
-# To Do
- - Vote / upvote feature
+# To Dovote
+ - Vote / up feature
  - Certified / verified bots
  - Mark bot as NSFW when submitting
  - More bot fields like **support server** **invite link**, **Github repo** and **Website**
